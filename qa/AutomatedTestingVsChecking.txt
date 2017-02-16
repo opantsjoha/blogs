@@ -1,0 +1,31 @@
+Automated Testing vs Checking
+
+Over the last decade I have either seen or experienced first-hand the same issue repeat in different organisations - Testers are seen as manual workers who are the cause of most problems (a bottleneck) and is the first department to have cuts if things go pear shaped, but are a necessity to assure stakeholders that the product we’re shipping is quality.
+
+Partly the fault lies with the educational system, nobody prepares us to be testers. In most cases, someone just falls into or discovers the role accidentally and learns that it involves doing multiple jobs, it may be a combination of customer support, infrastructure maintenance, releases and even development. 
+
+This is because only recently testing curriculum has surfaced, defining responsibility of a tester and how the role can evolve within a business. For instance, ISTQB courses have become popular among testers and companies seeking potential employees with such qualification. Of course, there are other testing schools - such as Rapid Software Testing which was started by James Bach and Michael Bolton as well as Context Driven Testing school developed by James Bach, Brian Marick, Bret Pettichord and Cem Kaner - that are freely taught by community at meet-ups. I prefer the latter two as they are in my opinion developed by people who are not afraid to learn and refine their material, whereas conventional educational establishments tend to stick with same material for years even if it’s no longer relevant or wrong.
+
+Even though we are slowly seeing some changes in educational system and what it means to be a tester or to be a “qualified” tester, many of our employers are still unaware of the depth of testing role. It's our responsibility to initially educate ourselves and share this information within the organisations we work for.
+
+Today I’d like to share my thoughts on why we should be referring to automated testing or test automation as either testing with automation or automated checking/verifying.
+
+First let’s identify the problem:
+I’ve spoken to many colleagues, potential employers, read blogs and books about testing. One thing that stuck out to me was that the act of following test case instructions was and is considered by many to be testing. To me following instructions is simply an act of checking or verifying the outcome.
+
+How did I come to this conclusion?
+As previously mentioned we need to educate ourselves and what better way to do this but to attend meet-ups, read blogs, books and speak to peers. One of the most important ingredients in self education is critical and quizzical thinking - I would highly recommend applying ABC (Assume nothing, Believe no-one and Challenge everything) principal when learning something new.
+
+I have used the above to define:
+- core basics of what testing is
+    (The what) exposing vulnerabilities in the system (the how) using various techniques and tools (the why) in order to ship quality product.
+- automated checking
+    (The what) performing regression checks (the how) by having machine follow instructions tester has written using automation frameworks (the why) to ensure old features are still working and new ones haven’t introduced any bugs.
+
+In summary, as soon as a test case has been created and executed by a tester it becomes a check. The test is created by a tester while i.e. exploring the system, going through requirements, talking to stakeholder etc.
+
+What does the future hold?
+
+It’s a long journey for us and many challenges to be faced as there’s currently a disconnect in the testing community in terms of understanding what automated testing is or isn’t and what it should be called. There are many out there that preach test automation without "fully" understanding testing and what it is. The reason I highlight word fully is because it's a constantly evolving subject and hence forth the definition of it.
+
+Take the first steps in understanding your job and educate others.
