@@ -1,5 +1,5 @@
 # Page Object Model (POM)
-POM is a design pattern that promotes clean, reusable and readable test code. It follows DRY (Do Not Repeat Yourself) and Single Responsibility principles. Examples in this guide are written in JavaScript and taken from [test-automation-java](https://github.com/opantsjoha/test-automation-java).
+POM is a design pattern that promotes clean, reusable and readable test code. It follows DRY (Do Not Repeat Yourself) and Single Responsibility principles. Examples in this guide are written in JavaScript and taken from [test-automation-javascript](https://github.com/opantsjoha/test-automation-javascript).
 
 Here's an illustration of what our framework structure looks like with POM:
 
