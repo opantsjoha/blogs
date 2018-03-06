@@ -3,7 +3,7 @@ POM is a design pattern that promotes clean, reusable and readable test code. It
 
 Here's an illustration of what our framework structure looks like with POM:
 
-![PageObjectModel](https://github.com/opantsjoha/docs/blob/master/assets/pom.png)
+![PageObjectModel](https://github.com/opantsjoha/blogs/blob/master/assets/pom.png)
 
 ## Clean, Reusable and Readable test code
 Before we dive into detail about how to create objects and write clean tests I want to demonstrate the difference between using POM and not using POM.
